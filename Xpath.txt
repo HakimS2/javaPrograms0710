@@ -1,0 +1,40 @@
+Hello Guys, Welcome to my channel H Y R Tutorials. in this video, we will
+
+discuss about XPath Axes. what is
+meant by axes. The axes is nothing
+
+but a relationship between your
+current element to the target element.
+
+so in web applications if you want to
+find out an element, we have so many
+
+controls and here we are talking about
+the XPath right... so the XPath is
+
+basically used for finding control if it
+is not having a unique identification
+
+parameter. let's say like ID, name or
+something... so if the element is not
+
+having a unique parameter then we will
+go for XPath or CssSelector. so in our
+
+earlier videos we have seen how we can
+write an XPath if it is having attribute
+
+values. let's say even though it is not
+having unique attributes like ID is not
+
+there maybe the name is there but it is
+not unique and class name is there it is
+
+also not unique so we can mix those two
+things and we can write the XPath and
+
+make the element as unique. if it is not
+sufficient you can use other attributes
+
+and mix with this one and we can write a
+unique XPath right..
